@@ -235,7 +235,7 @@
 
 ;; Get current block height
 (define-private (get-current-block-height)
-  block-height
+  stacks-block-height
 )
 
 ;; Check if property exists
